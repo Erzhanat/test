@@ -1,1 +1,2 @@
 # тест
+#include "math.h"
